@@ -1,0 +1,42 @@
+body{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial;
+}
+
+.title{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.image{
+  height: 50px;
+  border: none;  
+}
+
+.move-btn{
+  background-color: rgb(25, 25, 25);
+  width: 120px;
+  height: 120px;
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+  padding: 30px;
+  border-radius: 50%;
+  margin: 8px;
+  cursor: pointer;
+}
+
+.js-result{
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  color: white;
+}
+
+
+
+
+.js-moves .image{
+  padding: 10px;
+}
